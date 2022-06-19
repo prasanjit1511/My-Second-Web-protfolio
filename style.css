@@ -1,0 +1,245 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Mukta', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Serif Pro', serif;
+font-family: 'Tiro Devanagari Marathi', serif;
+margin: 0;
+	padding: 0;
+	
+}
+.colorpx{
+	color:#483D8B;
+}
+
+div li{
+	list-style: none;
+	display: inline-block;
+	padding: 0 20px;
+}
+.new{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 50px;
+	box-shadow: 0 1px 8px white;
+}
+div a{
+	text-decoration: none;
+	color: #A9A9A9;
+	transition: all 0.3s ease 0s;
+}
+
+.big{
+	width: 600px;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+	position: relative;
+
+}
+
+.big img{
+	position: absolute;
+    width: 100%;
+	top: -60px;
+
+	
+}
+p{
+    color: black;
+	border: 10px;
+}
+
+
+.my{
+   color: #483D8B; 
+}
+.myname{
+    color: #00CED1;
+}
+.write{
+   font-style: 30px;
+	
+	
+	
+}
+h1{
+    font-size: 50px;
+}
+.light{
+    text-decoration: aqua;
+    background-color: blueviolet;
+    background-image: linear-gradient(45deg ,#00BFFF,slategrey);
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+    font-weight: bold;
+ }
+ .bigg{
+	width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+	
+	
+
+}
+.bigg img{
+	
+    position: relative;
+    width: 100%;
+	top: -136px;
+	
+}
+section{
+	height: 700px;
+}
+.pin{
+	margin: auto;
+	width: 50%;
+}
+.item{
+	
+
+	height: 200px;
+	width: 300px;
+	border: 50px ;
+	margin: 70px;
+	box-shadow: 40px 40px 40px white;
+    
+	
+
+
+	padding: 30px;
+	float: left;
+
+}
+.image{
+	height: 200px;
+	width: 300px;
+	
+}
+.power{
+	
+	padding: 10px;
+
+	text-align: center;
+
+
+	
+}
+.hp{
+	
+	padding: 5px;
+	text-align: center;
+	line-height: 1rem;
+	margin: 0 auto;
+	font-size: 15px;
+	
+}
+.pos{
+	background-image: url("image7.png");
+	border-radius: 25px;
+
+	border: 15px  ;
+	height: 200px;
+	width: 1300px;
+   position: center;
+   margin:60px;
+   padding: 10px;
+  
+
+}
+.pad{
+	font-size:larger;
+	color: rgb(227, 248, 248);
+	padding: 40px 100px;
+
+	
+}
+.go{
+	font-size: medium;
+	font-family: serif;
+	text-align:right;
+	text-decoration: white;
+	text-transform: unset;
+	display: inline-block;
+	padding-left:500px;
+	background-position: right;
+}
+.lights{
+	text-decoration: aqua;
+    background-color: blueviolet;
+    background-image: linear-gradient(45deg ,#FF6347,slategrey);
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+    font-weight: bold;
+}
+.last-step{
+	height: 200px;
+  width: 100%;
+  
+ 
+  color: ghostwhite;
+
+}
+.foot{
+	text-align: center;
+	text-transform: uppercase;
+	color: rgb(147, 155, 151);
+	font-size: 15px;
+	font-family: fantasy;
+	padding-top: 20px;
+	margin-top: 8px;
+
+}
+.mail{
+	text-align: center;
+      text-decoration: dimgray;
+      text-transform:uppercase;
+      padding-top:5px;
+      color: black;
+      font-family: fantasy;
+
+}
+
+.middle{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding:2px;
+
+}
+.fa {
+	padding: 20px;
+	font-size: 20echo "# My-Second-Web-protfolio" >> README.mdpx;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 2px;
+	border-radius: 50%;
+  }
+  .fa:hover {
+    opacity: 0.3;
+}
+.fa-facebook {
+	background: #3B5998;
+	color: white;
+  }
+  .fa-instagram {
+	background: #ff0d00;
+	color: white;
+  }
+  .fa-linkedin {
+	background: #007bb5;
+	color: white;
+  }
+  .fa-twitter {
+	background: #55ACEE;
+	color: white;
+  }
+  
+
+
